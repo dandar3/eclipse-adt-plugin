@@ -9,12 +9,12 @@ https://dl-ssl.google.com/android/eclipse/
 Mirrored using notes from<br/>
 [Equinox p2 Repository Mirroring](https://wiki.eclipse.org/Equinox_p2_Repository_Mirroring)
 
-Version 23.0.7.2120684 (Aug 2015)
-* Android DDMS	
-* Android Development Tools
-* Android Hierarchy Viewer
-* Android Native Development Tools
-* Android Traceview
+**Version 23.0.7.2120684 (Aug 2015)**
+- Android DDMS	
+- Android Development Tools
+- Android Hierarchy Viewer
+- Android Native Development Tools
+- Android Traceview
 
 Mirror URL:</br>
-
+https://github.com/dandar3/eclipse-adt-plugin/raw/master/
